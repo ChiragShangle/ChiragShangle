@@ -2,7 +2,7 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- I am Chirag Shangle, a pre-final year Computer Science Undergraduate.
+ I am Chirag Shangle, a final year Computer Science Undergraduate.
 ---
 
 
